@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#183e2b">
+  <title>DayakBelajar - Bahasa Dayak Ngaju</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="app-shell">
+    <!-- BERANDA -->
+    <section id="homeScreen" class="screen active" aria-label="Beranda DayakBelajar">
+      <div class="landing-stage">
+        <div class="hero-pattern hero-pattern-one" aria-hidden="true"></div>
+        <div class="hero-pattern hero-pattern-two" aria-hidden="true"></div>
+        <div class="hero-topbar">
+          <div class="brand-mark"><span aria-hidden="true">✦</span> DAYAK<span>BELAJAR</span></div>
+          <div class="hero-points">⭐ <strong id="homeHeaderPointsStat">0</strong> poin</div>
+        </div>
+
+        <div class="hero-content">
+          <p class="hero-kicker"><span></span> MEDIA BELAJAR BAHASA DAERAH <span></span></p>
+          <div class="hero-emblem" aria-label="Maskot burung Tingang"><img src="tingang-mascot.svg" alt="Maskot burung Tingang DayakBelajar"></div>
+          <h1>Belajar Bahasa<br><span>Dayak Ngaju</span></h1>
+          <p class="hero-description">Kenali kosakata, temukan artinya, dan lestarikan bahasa daerah melalui permainan yang menyenangkan.</p>
+          <div id="homeCountBadge" class="home-count-badge">📖 <span>0 kosakata tersedia</span></div>
+          <button type="button" id="startButton" class="image-hotspot" disabled>
+            <span>Mulai Bermain</span><span class="start-arrow" aria-hidden="true">→</span>
+          </button>
+          <p class="hero-note">Pilih kata Dayak dan pasangkan dengan arti yang tepat</p>
+        </div>
+
+        <div class="hero-bottom">
+          <div class="stats-heading"><span>✧</span> PERJALANAN BELAJARMU <span>✧</span></div>
+          <div class="home-stats-grid">
+            <div class="home-stat-card"><span class="stat-icon">📚</span><strong id="homeWordsStat">0</strong><small>Kosakata</small></div>
+            <div class="home-stat-card"><span class="stat-icon">⭐</span><strong id="homePointsStat">0</strong><small>Total poin</small></div>
+            <div class="home-stat-card"><span class="stat-icon">🧩</span><strong id="homePairsStat">0/8</strong><small>Pasangan benar</small></div>
+            <div class="home-stat-card"><span class="stat-icon">🌱</span><strong id="homeProgressStat">0%</strong><small>Progres</small></div>
+          </div>
+          <div class="hero-decoration" aria-hidden="true"><span>◇</span><i></i><span>◇</span></div>
+        </div>
+      </div>
+
+      <p id="loadMessage" class="load-message" role="status" aria-live="polite">
+        Memuat kosakata...
+      </p>
+    </section>
+
+    <!-- HALAMAN PERMAINAN -->
+    <section id="gameScreen" class="screen" aria-label="Permainan memasangkan kata" hidden>
+      <header class="game-header">
+        <button type="button" id="backButton" class="back-button">← Beranda</button>
+        <div class="game-brand"><img src="tingang-mascot.svg" alt="" class="mini-tingang"> DayakBelajar</div>
+        <div class="header-right"><span class="level-badge">Level <strong id="levelNumber">1</strong>/3</span><div class="game-stats" aria-label="Jumlah poin">⭐ <span id="gamePoints">0</span></div></div>
+      </header>
+
+      <div id="gameContainer" class="game-container" data-level="1">
+        <div class="progress-row">
+          <div class="progress-track" aria-label="Progres permainan">
+            <div id="progressBar" class="progress-fill"></div>
+          </div>
+          <span id="progressText">0/8</span>
+        </div>
+
+        <p class="eyebrow">BELAJAR • BERMAIN • BERTUMBUH</p>
+        <h1>Pasangkan Kata!</h1>
+        <p class="intro">Pilih satu kata Dayak, lalu pilih arti yang cocok dalam Bahasa Indonesia.</p>
+
+        <div class="column-headings" aria-hidden="true">
+          <span>🌿 Bahasa Dayak</span>
+          <span>📖 Bahasa Indonesia</span>
+        </div>
+
+        <div class="matching-board">
+          <div id="dayakColumn" class="word-column" aria-label="Pilihan kata Dayak"></div>
+          <div id="indonesiaColumn" class="word-column" aria-label="Pilihan arti Bahasa Indonesia"></div>
+        </div>
+
+        <p id="gameMessage" class="game-message" role="status" aria-live="polite">
+          Ayo temukan pasangan kata yang benar!
+        </p>
+
+        <div class="game-bottom">
+          <span>⭐ Poin: <strong id="scoreBottom">0</strong></span>
+          <button type="button" id="resetButton" class="secondary-button">↻ Ulangi</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- HALAMAN HASIL -->
+    <section id="finishScreen" class="screen" aria-label="Hasil permainan" hidden>
+      <div class="finish-card">
+        <img src="tingang-mascot.svg" alt="Maskot Tingang" class="finish-mascot">
+        <p class="eyebrow">MISI SELESAI</p>
+        <h1>Hebat Sekali!</h1>
+        <p class="intro">Kamu sudah menyelesaikan permainan ini.</p>
+
+        <div class="final-score">
+          <span>⭐ Total poin</span>
+          <strong id="finalPoints">0</strong>
+        </div>
+
+        <p id="finishSummary" class="finish-summary"></p>
+        <button type="button" id="nextLevelButton" class="primary-button">Lanjut ke Level Berikutnya →</button>
+        <button type="button" id="replayButton" class="secondary-button">Ulangi Level Ini ↻</button>
+        <button type="button" id="finishBackButton" class="secondary-button finish-back">Kembali ke Beranda</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">Lestarikan Bahasa Daerah, Jaga Warisan Budaya 🌱</footer>
+</body>
+</html>

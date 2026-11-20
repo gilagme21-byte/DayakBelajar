@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "aku",
+    "dayak": "Aku",
+    "indonesia": "Saya"
+  },
+  {
+    "id": "amun",
+    "dayak": "Amun",
+    "indonesia": "Jika"
+  },
+  {
+    "id": "andau",
+    "dayak": "Andau",
+    "indonesia": "Hari"
+  },
+  {
+    "id": "apang",
+    "dayak": "Apang",
+    "indonesia": "Ayah"
+  },
+  {
+    "id": "apui",
+    "dayak": "Apui",
+    "indonesia": "Api"
+  },
+  {
+    "id": "aran",
+    "dayak": "Aran",
+    "indonesia": "Nama"
+  },
+  {
+    "id": "asep",
+    "dayak": "Asep",
+    "indonesia": "Asap"
+  },
+  {
+    "id": "asu",
+    "dayak": "Asu",
+    "indonesia": "Anjing"
+  },
+  {
+    "id": "atei",
+    "dayak": "Atei",
+    "indonesia": "Hati"
+  },
+  {
+    "id": "ba-ambun",
+    "dayak": "Ba ambun",
+    "indonesia": "Berembun"
+  },
+  {
+    "id": "babehat",
+    "dayak": "Babehat",
+    "indonesia": "Berat"
+  },
+  {
+    "id": "babilem",
+    "dayak": "Babilem",
+    "indonesia": "Hitam"
+  },
+  {
+    "id": "bagawi",
+    "dayak": "Bagawi",
+    "indonesia": "Bekerja"
+  },
+  {
+    "id": "bahalap",
+    "dayak": "Bahalap",
+    "indonesia": "Baik"
+  },
+  {
+    "id": "bahandang",
+    "dayak": "Bahandang",
+    "indonesia": "Merah"
+  },
+  {
+    "id": "bahenda",
+    "dayak": "Bahenda’",
+    "indonesia": "Kuning"
+  },
+  {
+    "id": "bahijau",
+    "dayak": "Bahijau",
+    "indonesia": "Hijau"
+  },
+  {
+    "id": "bajakah-kanai",
+    "dayak": "Bajakah kanai’",
+    "indonesia": "Usus"
+  },
+  {
+    "id": "bakapal",
+    "dayak": "Bakapal",
+    "indonesia": "Tebal"
+  },
+  {
+    "id": "bakas",
+    "dayak": "Bakas",
+    "indonesia": "Tua"
+  },
+  {
+    "id": "balasut",
+    "dayak": "Balasut",
+    "indonesia": "Panas"
+  },
+  {
+    "id": "balau",
+    "dayak": "Balau",
+    "indonesia": "Rambut"
+  },
+  {
+    "id": "balawau",
+    "dayak": "Balawau",
+    "indonesia": "Tikus"
+  },
+  {
+    "id": "bana",
+    "dayak": "Bana",
+    "indonesia": "Suami"
+  },
+  {
+    "id": "banipis",
+    "dayak": "Banipis",
+    "indonesia": "Tipis"
+  },
+  {
+    "id": "bapa",
+    "dayak": "Bapa",
+    "indonesia": "Ayah"
+  },
+  {
+    "id": "bapikir",
+    "dayak": "Bapikir",
+    "indonesia": "Berpikir"
+  },
+  {
+    "id": "baputi",
+    "dayak": "Baputi’",
+    "indonesia": "Putih"
+  },
+  {
+    "id": "batajim",
+    "dayak": "Batajim",
+    "indonesia": "Tajam"
+  },
+  {
+    "id": "batiruh",
+    "dayak": "Batiruh",
+    "indonesia": "Tidur"
+  },
+  {
+    "id": "batu",
+    "dayak": "Batu",
+    "indonesia": "Batu"
+  },
+  {
+    "id": "batumpul",
+    "dayak": "Batumpul",
+    "indonesia": "Tumpul"
+  },
+  {
+    "id": "baun-andau",
+    "dayak": "Baun andau",
+    "indonesia": "Berawan"
+  },
+  {
+    "id": "bawi",
+    "dayak": "Bawi’",
+    "indonesia": "Perempuan/wanita"
+  },
+  {
+    "id": "beken",
+    "dayak": "Beken",
+    "indonesia": "Lain"
+  },
+  {
+    "id": "belum",
+    "dayak": "Belum",
+    "indonesia": "Hidup"
+  },
+  {
+    "id": "bisa",
+    "dayak": "Bisa’",
+    "indonesia": "Basah"
+  },
+  {
+    "id": "bua",
+    "dayak": "Bua’",
+    "indonesia": "Buah"
+  },
+  {
+    "id": "bulan",
+    "dayak": "Bulan",
+    "indonesia": "Bulan"
+  },
+  {
+    "id": "bulu",
+    "dayak": "Bulu",
+    "indonesia": "Bulu"
+  },
+  {
+    "id": "burung",
+    "dayak": "Burung",
+    "indonesia": "Burung"
+  },
+  {
+    "id": "daha",
+    "dayak": "Daha’",
+    "indonesia": "Darah"
+  },
+  {
+    "id": "danau",
+    "dayak": "Danau",
+    "indonesia": "Danau"
+  },
+  {
+    "id": "danum",
+    "dayak": "Danum",
+    "indonesia": "Air"
+  },
+  {
+    "id": "dawen",
+    "dayak": "Dawen",
+    "indonesia": "Daun"
+  },
+  {
+    "id": "dia",
+    "dayak": "Dia’",
+    "indonesia": "Tidak"
+  },
+  {
+    "id": "due",
+    "dayak": "Due’",
+    "indonesia": "Dua"
+  },
+  {
+    "id": "dumah",
+    "dayak": "Dumah",
+    "indonesia": "Datang"
+  },
+  {
+    "id": "due-puluh",
+    "dayak": "Due puluh",
+    "indonesia": "Dua puluh"
+  },
+  {
+    "id": "edan",
+    "dayak": "Edan",
+    "indonesia": "Dahan"
+  },
+  {
+    "id": "en",
+    "dayak": "En / Dengan",
+    "indonesia": "Dan"
+  },
+  {
+    "id": "enyak",
+    "dayak": "Enyak",
+    "indonesia": "Lemak"
+  },
+  {
+    "id": "epat",
+    "dayak": "Epat",
+    "indonesia": "Empat"
+  },
+  {
+    "id": "eweh",
+    "dayak": "Eweh",
+    "indonesia": "Siapa"
+  },
+  {
+    "id": "ewen",
+    "dayak": "Ewen",
+    "indonesia": "Mereka"
+  },
+  {
+    "id": "gatawu",
+    "dayak": "Gatawu’ / Gantau",
+    "indonesia": "Kanan"
+  },
+  {
+    "id": "guti",
+    "dayak": "Guti’",
+    "indonesia": "Kutu"
+  },
+  {
+    "id": "hai",
+    "dayak": "Hai’",
+    "indonesia": "Besar"
+  },
+  {
+    "id": "hamalem",
+    "dayak": "Hamalem",
+    "indonesia": "Malam"
+  },
+  {
+    "id": "hamauh",
+    "dayak": "Hamauh",
+    "indonesia": "Berbunyi"
+  },
+  {
+    "id": "hamparea",
+    "dayak": "Hamparea’",
+    "indonesia": "Kapan"
+  },
+  {
+    "id": "hanangui",
+    "dayak": "Hanangui",
+    "indonesia": "Berenang"
+  },
+  {
+    "id": "handalai",
+    "dayak": "Handalai",
+    "indonesia": "Cacing"
+  },
+  {
+    "id": "handipe",
+    "dayak": "Handipe’",
+    "indonesia": "Ular"
+  },
+  {
+    "id": "hanya",
+    "dayak": "Hanya",
+    "indonesia": "Delapan"
+  },
+  {
+    "id": "haru",
+    "dayak": "Haru",
+    "indonesia": "Baru"
+  },
+  {
+    "id": "hasep",
+    "dayak": "Hasep",
+    "indonesia": "Kabut"
+  },
+  {
+    "id": "hatap",
+    "dayak": "Hatap / Sapau",
+    "indonesia": "Atap"
+  },
+  {
+    "id": "hatue",
+    "dayak": "Hatue’",
+    "indonesia": "Laki-laki/pria"
+  },
+  {
+    "id": "huma",
+    "dayak": "Huma’",
+    "indonesia": "Rumah"
+  },
+  {
+    "id": "hung",
+    "dayak": "Hung",
+    "indonesia": "Di"
+  },
+  {
+    "id": "hung-huang",
+    "dayak": "Hung huang",
+    "indonesia": "Di, dalam"
+  },
+  {
+    "id": "hung-hunjun",
+    "dayak": "Hung hunjun",
+    "indonesia": "Di atas"
+  },
+  {
+    "id": "hung-kueh",
+    "dayak": "Hung kueh",
+    "indonesia": "Di mana"
+  },
+  {
+    "id": "hung-penda",
+    "dayak": "Hung penda’",
+    "indonesia": "Di bawah"
+  },
+  {
+    "id": "hunjun-bahai",
+    "dayak": "Hunjun bahai",
+    "indonesia": "Bahu"
+  },
+  {
+    "id": "ie",
+    "dayak": "Ie",
+    "indonesia": "Dia"
+  },
+  {
+    "id": "jela",
+    "dayak": "Jela’",
+    "indonesia": "Lidah"
+  },
+  {
+    "id": "ije",
+    "dayak": "Ije’",
+    "indonesia": "Satu"
+  },
+  {
+    "id": "ikau",
+    "dayak": "Ikau",
+    "indonesia": "Kamu"
+  },
+  {
+    "id": "ikei",
+    "dayak": "Ikei",
+    "indonesia": "Kami"
+  },
+  {
+    "id": "ikuh",
+    "dayak": "Ikuh",
+    "indonesia": "Ekor"
+  },
+  {
+    "id": "indu",
+    "dayak": "Indu",
+    "indonesia": "Ibu"
+  },
+  {
+    "id": "isi",
+    "dayak": "Isi",
+    "indonesia": "Daging"
+  },
+  {
+    "id": "itah",
+    "dayak": "Itah",
+    "indonesia": "Kita"
+  },
+  {
+    "id": "jahawen",
+    "dayak": "Jahawen",
+    "indonesia": "Enam"
+  },
+  {
+    "id": "jite",
+    "dayak": "Jite’",
+    "indonesia": "Itu"
+  },
+  {
+    "id": "jetuh",
+    "dayak": "Jetuh",
+    "indonesia": "Ini"
+  },
+  {
+    "id": "kanai",
+    "dayak": "Kanai’",
+    "indonesia": "Perut"
+  },
+  {
+    "id": "kambang",
+    "dayak": "Kambang",
+    "indonesia": "Bunga"
+  },
+  {
+    "id": "karatak",
+    "dayak": "Karatak",
+    "indonesia": "Jalan/jalur"
+  },
+  {
+    "id": "kasinga",
+    "dayak": "Kasinga",
+    "indonesia": "Gigi"
+  },
+  {
+    "id": "katawam",
+    "dayak": "Katawam",
+    "indonesia": "Mengetahui"
+  },
+  {
+    "id": "kawu",
+    "dayak": "Kawu",
+    "indonesia": "Abu"
+  },
+  {
+    "id": "kawu-2",
+    "dayak": "Kawu’",
+    "indonesia": "Debu"
+  },
+  {
+    "id": "kayu",
+    "dayak": "Kayu",
+    "indonesia": "Kayu"
+  },
+  {
+    "id": "keang",
+    "dayak": "Keang",
+    "indonesia": "Kering"
+  },
+  {
+    "id": "kejau",
+    "dayak": "Kejau",
+    "indonesia": "Jauh"
+  },
+  {
+    "id": "ketun-handiai",
+    "dayak": "Ketun handiai",
+    "indonesia": "Anda semua"
+  },
+  {
+    "id": "kilat",
+    "dayak": "Kilat",
+    "indonesia": "Kilat"
+  },
+  {
+    "id": "kilenampi",
+    "dayak": "Kilenampi",
+    "indonesia": "Bagaimana"
+  },
+  {
+    "id": "kuman",
+    "dayak": "Kuman",
+    "indonesia": "Makan"
+  },
+  {
+    "id": "kurik",
+    "dayak": "Kurik",
+    "indonesia": "Kecil"
+  },
+  {
+    "id": "lalau-kurik",
+    "dayak": "Lalau kurik",
+    "indonesia": "Terlalu sempit"
+  },
+  {
+    "id": "langit",
+    "dayak": "Langit",
+    "indonesia": "Langit"
+  },
+  {
+    "id": "lauk",
+    "dayak": "Lauk",
+    "indonesia": "Ikan"
+  },
+  {
+    "id": "laut",
+    "dayak": "Laut",
+    "indonesia": "Laut"
+  },
+  {
+    "id": "lebar",
+    "dayak": "Lebar",
+    "indonesia": "Lebar"
+  },
+  {
+    "id": "lenge",
+    "dayak": "Lenge’",
+    "indonesia": "Tangan"
+  },
+  {
+    "id": "likut",
+    "dayak": "Likut",
+    "indonesia": "Belakang"
+  },
+  {
+    "id": "lime",
+    "dayak": "Lime",
+    "indonesia": "Lima"
+  },
+  {
+    "id": "lime-puluh",
+    "dayak": "Lime puluh",
+    "indonesia": "Lima puluh"
+  },
+  {
+    "id": "lumbah",
+    "dayak": "Lumbah",
+    "indonesia": "Lebar"
+  },
+  {
+    "id": "machining",
+    "dayak": "Machining",
+    "indonesia": "Mendengar"
+  },
+  {
+    "id": "mahambus",
+    "dayak": "Mahambus",
+    "indonesia": "Berhembus"
+  },
+  {
+    "id": "mahamen",
+    "dayak": "Mahamen",
+    "indonesia": "Malu"
+  },
+  {
+    "id": "mahamis",
+    "dayak": "Mahamis",
+    "indonesia": "Memeras"
+  },
+  {
+    "id": "mahaseng",
+    "dayak": "Mahaseng",
+    "indonesia": "Bernapas"
+  },
+  {
+    "id": "mahasur",
+    "dayak": "Mahasur",
+    "indonesia": "Mengalir"
+  },
+  {
+    "id": "mahiwang",
+    "dayak": "Mahiwang",
+    "indonesia": "Berbalik"
+  },
+  {
+    "id": "malalap",
+    "dayak": "Malalap",
+    "indonesia": "Menguap"
+  },
+  {
+    "id": "maluja",
+    "dayak": "Maluja",
+    "indonesia": "Meludah"
+  },
+  {
+    "id": "mamangkit",
+    "dayak": "Mamangkit",
+    "indonesia": "Menggigit"
+  },
+  {
+    "id": "mamapoi",
+    "dayak": "Mamapoi",
+    "indonesia": "Membakar"
+  },
+  {
+    "id": "mamatum",
+    "dayak": "Mamatum",
+    "indonesia": "Menangis"
+  },
+  {
+    "id": "mambewau",
+    "dayak": "Mambewau",
+    "indonesia": "Mengendus, mencium"
+  },
+  {
+    "id": "mameteng",
+    "dayak": "Mameteng",
+    "indonesia": "Mengikat"
+  },
+  {
+    "id": "mamili",
+    "dayak": "Mamili’",
+    "indonesia": "Membeli"
+  },
+  {
+    "id": "mampakasak",
+    "dayak": "Mampakasak",
+    "indonesia": "Memasak"
+  },
+  {
+    "id": "mampatei",
+    "dayak": "Mampatei",
+    "indonesia": "Membunuh, mematikan"
+  },
+  {
+    "id": "mamukul",
+    "dayak": "Mamukul",
+    "indonesia": "Memukul"
+  },
+  {
+    "id": "manakau",
+    "dayak": "Manakau",
+    "indonesia": "Mencuri"
+  },
+  {
+    "id": "manampayah",
+    "dayak": "Manampayah",
+    "indonesia": "Melihat"
+  },
+  {
+    "id": "manangis",
+    "dayak": "Manangis",
+    "indonesia": "Menangis"
+  },
+  {
+    "id": "mananjung",
+    "dayak": "Mananjung",
+    "indonesia": "Berjalan"
+  },
+  {
+    "id": "mandai",
+    "dayak": "Mandai’",
+    "indonesia": "Memanjat"
+  },
+  {
+    "id": "mandup",
+    "dayak": "Mandup",
+    "indonesia": "Berburu"
+  },
+  {
+    "id": "manembak",
+    "dayak": "Manembak",
+    "indonesia": "Menembak"
+  },
+  {
+    "id": "manepe",
+    "dayak": "Manepe’",
+    "indonesia": "Mengalahkan"
+  },
+  {
+    "id": "manetek",
+    "dayak": "Manetek",
+    "indonesia": "Memotong"
+  },
+  {
+    "id": "mangali",
+    "dayak": "Mangali",
+    "indonesia": "Menggali"
+  },
+  {
+    "id": "mangembang",
+    "dayak": "Mangembang",
+    "indonesia": "Membengkak"
+  },
+  {
+    "id": "manggayau",
+    "dayak": "Manggayau",
+    "indonesia": "Menggaruk"
+  },
+  {
+    "id": "mangirut",
+    "dayak": "Mangirut",
+    "indonesia": "Menggigit"
+  },
+  {
+    "id": "manjakah",
+    "dayak": "Manjakah",
+    "indonesia": "Melempar"
+  },
+  {
+    "id": "manjatu",
+    "dayak": "Manjatu’",
+    "indonesia": "Jatuh"
+  },
+  {
+    "id": "manupi",
+    "dayak": "Manupi",
+    "indonesia": "Mimpi"
+  },
+  {
+    "id": "manyahukan",
+    "dayak": "Manyahukan",
+    "indonesia": "Menyembunyikan"
+  },
+  {
+    "id": "manyila",
+    "dayak": "Manyila",
+    "indonesia": "Memisahkan"
+  },
+  {
+    "id": "manyipa",
+    "dayak": "Manyipa’",
+    "indonesia": "Mengunyah"
+  },
+  {
+    "id": "manyium",
+    "dayak": "Manyium",
+    "indonesia": "Mengendus, mencium"
+  },
+  {
+    "id": "manyuduk",
+    "dayak": "Manyuduk",
+    "indonesia": "Menusuk"
+  },
+  {
+    "id": "maram",
+    "dayak": "Maram",
+    "indonesia": "Busuk"
+  },
+  {
+    "id": "mata",
+    "dayak": "Mata’",
+    "indonesia": "Mata"
+  },
+  {
+    "id": "matei",
+    "dayak": "Matei",
+    "indonesia": "Mati"
+  },
+  {
+    "id": "mendeng",
+    "dayak": "Mendeng",
+    "indonesia": "Berdiri"
+  },
+  {
+    "id": "mengan",
+    "dayak": "Mengan",
+    "indonesia": "Berburu"
+  },
+  {
+    "id": "menter",
+    "dayak": "Menter",
+    "indonesia": "baring"
+  },
+  {
+    "id": "metu",
+    "dayak": "Metu’",
+    "indonesia": "Binatang"
+  },
+  {
+    "id": "mihup",
+    "dayak": "Mihup",
+    "indonesia": "Minum"
+  },
+  {
+    "id": "mikeh",
+    "dayak": "Mikeh",
+    "indonesia": "Takut"
+  },
+  {
+    "id": "mimbing",
+    "dayak": "Mimbing",
+    "indonesia": "Memegang"
+  },
+  {
+    "id": "mimbul",
+    "dayak": "Mimbul",
+    "indonesia": "Menanam"
+  },
+  {
+    "id": "mintih",
+    "dayak": "Mintih",
+    "indonesia": "Memilih"
+  },
+  {
+    "id": "minyop",
+    "dayak": "Miny0p",
+    "indonesia": "Menghisap"
+  },
+  {
+    "id": "mise",
+    "dayak": "Mise’",
+    "indonesia": "Menghitung"
+  },
+  {
+    "id": "mitur",
+    "dayak": "Mitur",
+    "indonesia": "Menjahit"
+  },
+  {
+    "id": "mbuka",
+    "dayak": "Mbuka",
+    "indonesia": "Membuka"
+  },
+  {
+    "id": "munduk",
+    "dayak": "Munduk",
+    "indonesia": "Duduk"
+  },
+  {
+    "id": "muta",
+    "dayak": "Muta’",
+    "indonesia": "Muntah"
+  },
+  {
+    "id": "narai",
+    "dayak": "Narai",
+    "indonesia": "Apa"
+  },
+  {
+    "id": "nyama",
+    "dayak": "Nyama",
+    "indonesia": "Mulut"
+  },
+  {
+    "id": "nyamuk",
+    "dayak": "Nyamuk",
+    "indonesia": "Nyamuk"
+  },
+  {
+    "id": "nyelu",
+    "dayak": "Nyelu",
+    "indonesia": "Tahun"
+  },
+  {
+    "id": "pai",
+    "dayak": "Pai’",
+    "indonesia": "kaki"
+  },
+  {
+    "id": "palapas",
+    "dayak": "Palapas",
+    "indonesia": "Sayap"
+  },
+  {
+    "id": "pandak",
+    "dayak": "Pandak",
+    "indonesia": "Pendek"
+  },
+  {
+    "id": "panjang",
+    "dayak": "Panjang",
+    "indonesia": "Panjang"
+  },
+  {
+    "id": "papa",
+    "dayak": "Papa’",
+    "indonesia": "Kotor"
+  },
+  {
+    "id": "parak-kayu",
+    "dayak": "Parak-kayu",
+    "indonesia": "Di hutan"
+  },
+  {
+    "id": "pasir",
+    "dayak": "Pasir",
+    "indonesia": "Pasir"
+  },
+  {
+    "id": "pehe",
+    "dayak": "Pehe’",
+    "indonesia": "Sakit"
+  },
+  {
+    "id": "petak",
+    "dayak": "Petak",
+    "indonesia": "Tanah"
+  },
+  {
+    "id": "pilus",
+    "dayak": "Pilus",
+    "indonesia": "Jarum"
+  },
+  {
+    "id": "pinding",
+    "dayak": "Pinding",
+    "indonesia": "Telinga"
+  },
+  {
+    "id": "guntur",
+    "dayak": "Guntur",
+    "indonesia": "Guntur"
+  },
+  {
+    "id": "riwut",
+    "dayak": "Riwut",
+    "indonesia": "Angin"
+  },
+  {
+    "id": "sabangkang",
+    "dayak": "Sabangkang",
+    "indonesia": "Laba-laba"
+  },
+  {
+    "id": "sadingen",
+    "dayak": "Sadingen",
+    "indonesia": "Dingin"
+  },
+  {
+    "id": "saribu",
+    "dayak": "Saribu",
+    "indonesia": "Seribu"
+  },
+  {
+    "id": "sambil",
+    "dayak": "Sambil",
+    "indonesia": "Kiri"
+  },
+  {
+    "id": "sapuluh",
+    "dayak": "Sapuluh",
+    "indonesia": "Sepuluh"
+  },
+  {
+    "id": "saratus",
+    "dayak": "Saratus",
+    "indonesia": "Seratus"
+  },
+  {
+    "id": "sawa",
+    "dayak": "Sawa",
+    "indonesia": "Istri"
+  },
+  {
+    "id": "kuluk",
+    "dayak": "kuluk",
+    "indonesia": "Kepala"
+  },
+  {
+    "id": "tali",
+    "dayak": "Tali",
+    "indonesia": "Tali"
+  },
+  {
+    "id": "tanteluh",
+    "dayak": "Tanteluh",
+    "indonesia": "Telur"
+  },
+  {
+    "id": "tarawang",
+    "dayak": "Tarawang",
+    "indonesia": "Terbang"
+  },
+  {
+    "id": "tatawe",
+    "dayak": "Tatawe’",
+    "indonesia": "Tertawa"
+  },
+  {
+    "id": "telu",
+    "dayak": "Telu’",
+    "indonesia": "Tiga"
+  },
+  {
+    "id": "tien",
+    "dayak": "Tien",
+    "indonesia": "Sembilan"
+  },
+  {
+    "id": "tukep",
+    "dayak": "Tukep",
+    "indonesia": "Dekat"
+  },
+  {
+    "id": "tulang",
+    "dayak": "Tulang",
+    "indonesia": "Tulang"
+  },
+  {
+    "id": "tumbu",
+    "dayak": "Tumbu’",
+    "indonesia": "Tumbuh"
+  },
+  {
+    "id": "tusu",
+    "dayak": "Tusu",
+    "indonesia": "Payudara"
+  },
+  {
+    "id": "tutu",
+    "dayak": "Tutu’",
+    "indonesia": "Benar"
+  },
+  {
+    "id": "uhat",
+    "dayak": "Uhat",
+    "indonesia": "Akar"
+  },
+  {
+    "id": "ujan",
+    "dayak": "Ujan",
+    "indonesia": "Hujan"
+  },
+  {
+    "id": "uju",
+    "dayak": "Uju",
+    "indonesia": "Tujuh"
+  },
+  {
+    "id": "uluh",
+    "dayak": "Uluh",
+    "indonesia": "Orang"
+  },
+  {
+    "id": "upak",
+    "dayak": "Upak",
+    "indonesia": "Kulit"
+  },
+  {
+    "id": "uras",
+    "dayak": "Uras",
+    "indonesia": "Semua"
+  },
+  {
+    "id": "uru",
+    "dayak": "Uru’",
+    "indonesia": "Rumput"
+  },
+  {
+    "id": "urung",
+    "dayak": "Urung",
+    "indonesia": "Hidung"
+  },
+  {
+    "id": "uyah",
+    "dayak": "Uyah",
+    "indonesia": "Garam"
+  },
+  {
+    "id": "uyat",
+    "dayak": "Uyat",
+    "indonesia": "Leher"
+  }
+]
